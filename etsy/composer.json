@@ -1,0 +1,10 @@
+{
+    "name": "srite/etsy",
+    "description": "Laravel Etsy API Wrapper",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/oauth-subscriber": "0.3.*"
+    },
+    "minimum-stability": "dev"
+}
